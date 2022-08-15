@@ -1,0 +1,37 @@
+{
+  "id": "3403950",
+  "name": "0",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16225763",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "16225765",
+      "name": "地址",
+      "font_class": "dizhi",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "16227024",
+      "name": "多色-IP地址",
+      "font_class": "duose-IPdizhi",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "16227025",
+      "name": "多色-登录",
+      "font_class": "duose-denglu",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    }
+  ]
+}
